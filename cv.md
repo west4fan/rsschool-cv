@@ -48,4 +48,20 @@ February 2014 - February 2016
 * Repair of switches, telephone gateways
 * Checking the availability of switches, telephone gateways
 * Work with billing
-* Working with the ticket system
+* Working with the ticket system  
+
+## Education
+**MGPL No. 2 of light industry, Minsk**  
+vocational education  
+September 2009 - 2012
+
+## Courses
+**Web Developer, udemy.com**  
+January 2020  
+
+**JavaScript + React, udemy.com**  
+July 2020
+
+## Languages
+**English** - B1  
+**Russian** - Native Speaker
